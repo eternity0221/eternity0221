@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/java%20script-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/type%20script-black?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/php-%23F7DF1E?style=for-the-badge&logo=php&logoColor=%23777BB4&labelColor=black&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/react-%23F7DF1E?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=%234FC08D&labelColor=black&color=%234FC08D)
